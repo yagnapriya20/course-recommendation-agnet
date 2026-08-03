@@ -1,0 +1,52 @@
+[
+    {
+        "course": "Python Basics",
+        "skills": ["Programming"],
+        "prerequisite": [],
+        "level": "Beginner"
+    },
+
+    {
+        "course": "SQL Fundamentals",
+        "skills": ["Database"],
+        "prerequisite": [
+            "Python Basics"
+        ],
+        "level": "Beginner"
+    },
+
+    {
+        "course": "Data Analysis with Pandas",
+        "skills": [
+            "Python",
+            "Data Analysis"
+        ],
+        "prerequisite": [
+            "Python Basics"
+        ],
+        "level": "Intermediate"
+    },
+
+    {
+        "course": "Machine Learning",
+        "skills": [
+            "Machine Learning"
+        ],
+        "prerequisite": [
+            "Python Basics",
+            "Data Analysis with Pandas"
+        ],
+        "level": "Intermediate"
+    },
+
+    {
+        "course": "Deep Learning",
+        "skills": [
+            "Artificial Intelligence"
+        ],
+        "prerequisite": [
+            "Machine Learning"
+        ],
+        "level": "Advanced"
+    }
+]

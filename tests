@@ -1,0 +1,22 @@
+## Testing
+
+The agent was tested using 10 different student profiles with different educational backgrounds, skills, and career goals.
+
+Test cases include:
+
+1. Engineering student → Data Scientist goal
+2. Computer Science student → AI Engineer goal
+3. ECE student → Embedded AI Developer goal
+4. Commerce student → Data Analyst goal
+5. Mathematics student → Machine Learning goal
+6. BCA student → Software Developer goal
+7. Electrical student → AI Researcher goal
+8. Mechanical student → Data Analyst goal
+9. Information Science student → Data Engineer goal
+10. Student with beginner skills → Python learning path
+
+Each test case was executed successfully, and the agent generated:
+- Personalized learning path
+- Course recommendations
+- Reason for selecting each course
+- AI-generated career explanation
